@@ -1,2 +1,1 @@
-# discord_bot_altyap-s-
-discord bot için gereken kodlar
+repl.it sitesine gidip hesap aç. oraya bu dosya isimlerini ekleyip kodları yaz.
